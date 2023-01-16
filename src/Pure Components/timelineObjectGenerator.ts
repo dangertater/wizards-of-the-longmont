@@ -28,7 +28,7 @@ export let monthSelector = (specificMonth: string | number) => {
 	if (specificMonth === null) {
          //originally had monthNum() called on below line, but them red squigglies said nah
 		return months[Math.floor(Math.random() * 12)]
-	} else if (typeof specificMonth )
+	} else ( )
 }
 //will generate random month if no argument supplied, or the month correlating with the string or number provided
 
