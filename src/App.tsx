@@ -1,10 +1,10 @@
 import React from "react"
-import { randomMonth } from "./Pure Components/timelineObjectGenerator"
+// import { randomMonth } from "./Pure Components/timelineObjectGenerator"
 
 let arrayOfTimelineObjects: {}[] = []
 
 function App() {
-	return <></>
+	return <>asdf</>
 }
 
 export default App
