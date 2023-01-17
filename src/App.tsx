@@ -1,10 +1,13 @@
 import React from "react"
-// import { randomMonth } from "./Pure Components/timelineObjectGenerator"
-
+import { CustomButton } from "./Components/CustomButton"
 let arrayOfTimelineObjects: {}[] = []
 
 function App() {
-	return <>asdf</>
+	return (
+		<>
+			<CustomButton />
+		</>
+	)
 }
 
 export default App
