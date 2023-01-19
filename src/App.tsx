@@ -1,5 +1,4 @@
 import React from "react"
-import { randomMonth } from "./Pure Components/timelineObjectGenerator"
 
 let arrayOfTimelineObjects: {}[] = []
 
